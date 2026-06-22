@@ -1,0 +1,5 @@
+TST001|Infiltração na cobertura|Cliente relata goteiras no teto do escritório após chuva forte.|NOVO|ALTA|CLI001|Construtora Horizonte|Cralos|Edifício Horizonte - Bloco A|2026-06-15T01:38:14.699505900|
+TST002|Revisão de projeto elétrico|Solicitação de revisão do projeto elétrico para adequação à norma NBR 5410.|EM_ANDAMENTO|MEDIA|CLI002|Studio Arq&Design|tecnico01|Sede Studio Arq&Design - Sala 204|2026-06-18T01:38:14.699505900|
+OC@@TST002@@8db1a7@@Planta elétrica original não foi localizada no arquivo.@@CLI002@@Studio Arq&Design@@ABERTA@@2026-06-20T01:38:14.705548200@@@@@@
+TST003|Ajuste de layout sala de reuniões|Reposicionamento de divisórias e revisão de iluminação.|PAUSADO|BAIXA|CLI003|Grupo Vértice|maria|Torre Vértice - 10º andar|2026-06-13T01:38:14.705548200|[Planta baixa] plantas/vertice_sala_reunioes.pdf
+TST004|Vistoria pós-obra apartamento 302|Verificação de acabamentos e entrega das chaves ao cliente.|ENCERRADO|MEDIA|CLI004|Residencial Alameda|carlos|Residencial Alameda - Apto 302|2026-06-10T01:38:14.705548200|[Relatório final] relatorios/alameda_302_final.pdf
